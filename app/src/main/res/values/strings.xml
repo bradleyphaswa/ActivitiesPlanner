@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Activities Planner</string>
+    <string name="sign_in"><a href="https://learntodroid.com">Sign in</a>
+    </string>
+    <string name="sign_up"><a href="https://learntodroid.com">Sign up</a>
+    </string>
+    <string name="terms_of_service">
+        <a href="https://learntodroid.com">terms of services</a>
+    </string>
+
+    <string name="membership">
+        <a href="https://learntodroid.com">Im already a member</a>
+    </string>
+    <string name="text_user_profile"><u>User Profile</u>
+    </string>
+</resources>
